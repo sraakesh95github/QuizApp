@@ -1,0 +1,5 @@
+# Image formats
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+# 3D model formats
+*.fbx filter=lfs diff=lfs merge=lfs -text
